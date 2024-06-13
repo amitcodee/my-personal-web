@@ -12,5 +12,5 @@ export const personalData = {
   twitter: 'https://www.facebook.com/profile.php?id=100067772587920',
   stackOverflow: 'https://www.facebook.com/profile.php?id=100067772587920',
   leetcode: "https://www.facebook.com/profile.php?id=100067772587920",
-  resume: "/Amit.pdf"
+  resume: "/amit.pdf"
 }
