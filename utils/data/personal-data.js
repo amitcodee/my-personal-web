@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Talwara, Punjab, India',
   github: 'https://github.com/akamit786',
   facebook: 'https://www.facebook.com/profile.php?id=100067772587920',
-  linkedIn: 'https://www.linkedin.com/in/aamit-kumar-sharma//',
+  linkedIn: 'https://www.linkedin.com/in/aamit-kumar-sharma/',
   twitter: 'https://www.facebook.com/profile.php?id=100067772587920',
   stackOverflow: 'https://www.facebook.com/profile.php?id=100067772587920',
   leetcode: "https://www.facebook.com/profile.php?id=100067772587920",
