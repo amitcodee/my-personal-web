@@ -6,7 +6,7 @@ export const personalData = {
   email: 'akamitt.kumar@gmail.com',
   phone: '+91 7710575371',
   address: 'Talwara, Punjab, India',
-  github: 'https://github.com/akamit786',
+  github: 'https://github.com/amitcodee',
   facebook: 'https://www.facebook.com/profile.php?id=100067772587920',
   linkedIn: 'https://www.linkedin.com/in/aamit-kumar-sharma/',
   twitter: 'https://www.facebook.com/profile.php?id=100067772587920',

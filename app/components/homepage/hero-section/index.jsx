@@ -16,8 +16,8 @@ function HeroSection() {
       <meta name="keywords" content="Amit Sharma, web developer, Talwara, React, Next.js, web development" />
       <meta property="og:title" content="Amit Sharma - Web Dev from Talwara" />
       <meta property="og:description" content="Amit Sharma, a professional web developer from Talwara, showcasing skills in React, Next.js, and more. Contact for collaboration and opportunities." />
-      <meta property="og:image" content="https://amitsharmatech.me/_next/image?url=%2Fprofile.jpg&w=384&q=75" />
-      <meta property="og:url" content="https://amitsharmatech.me/" />
+      <meta property="og:image" content="https://amitcodee.netlify.app/_next/image?url=%2Fprofile.jpg&w=384&q=75" />
+      <meta property="og:url" content="https://amitcodee.netlify.app/" />
     </Head>
     
   return (
@@ -28,7 +28,7 @@ function HeroSection() {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Amit Sharma",
-          "url": "https://amitsharmatech.me/",
+          "url": "https://amitcodee.netlify.app/",
           "description": "Amit Sharma, a professional web developer from Talwara, showcasing skills in React, Next.js, and more.",
           "address": {
             "@type": "PostalAddress",
